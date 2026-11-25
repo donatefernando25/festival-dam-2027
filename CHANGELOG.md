@@ -9,3 +9,8 @@
 - Creación de la página de entradas generales.
 - Incorporación de la hoja de estilos CSS.
 - Menú de navegación entre las páginas.
+## v1.1
+- Añadida la entrada VIP.
+- Añadidas mejoras en la web.
+- Corregido el precio de la entrada VIP.
+- Resuelto el conflicto de integración entre ramas.
